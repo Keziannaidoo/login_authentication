@@ -1,0 +1,24 @@
+
+ADMIN
+Number of tasks assigned  2
+Percentage of total tasks assigned to each user 50%
+Percentage of tast that is completed 50%
+Percentage of tast that must still be completed 50%
+Percentage of tasks not complete and overdue 50%
+
+KEZIAN
+Number of tasks assigned  1
+Percentage of total tasks assigned to each user 25%
+Percentage of tast that is completed 0%
+Percentage of tast that must still be completed 100%
+Percentage of tasks not complete and overdue 100%
+
+SAM
+Number of tasks assigned  1
+Percentage of total tasks assigned to each user 25%
+Percentage of tast that is completed 0%
+Percentage of tast that must still be completed 100%
+Percentage of tasks not complete and overdue 0%
+
+Total number Of task created  : 4
+Total number Of users created : 3
